@@ -1,0 +1,5 @@
+* git init . = inisialisasi projek
+* git add . = untuk menambahkan file ke dalam repo
+* git remote add origin "nama link repomu" = ini untuk pengalamatan repo
+* git commit -m "nama komitanmu" = untuk bikin version nya
+* git push origin "nama branch" = untuk ngirim ke repomu
